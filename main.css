@@ -1,0 +1,23 @@
+h2{
+    color:greenyellow;
+}
+p#heading{
+  color:red;
+  text-align: right;
+  position:absolute;
+  top:50px;
+  right:50%;
+  text-decoration: overline underline;
+  font-family: 'verdhana';
+  font-size: 50px;
+  font-style: italic;
+  background-color: rgb(210, 207, 207);
+}
+p{
+    text-align: justify;
+    margin: 20px;
+    text-indent:20px
+}
+body{
+    background-color: rgba(100,180,90, 0.2);
+}
